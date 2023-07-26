@@ -640,6 +640,7 @@ main {}
 /* card3 col9 */
 .card3{
     position: relative;
+    overflow-x: hidden;
 }
 .card3 figure{}
 .card3 figure img{}
